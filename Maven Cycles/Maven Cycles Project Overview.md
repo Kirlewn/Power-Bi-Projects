@@ -7,4 +7,5 @@ The .pbix is the Power Bi File itself.
 This data
 
 The Goal of this project was to explore Power Bi and create reports and Dashboard that would allow stakeholders (fictious) the ability to make data driven decisions. 
+
 To this extent, I aimed to identify KPIs, Top/Bottom performing products, and the effects of seasonality and location on sales. 
